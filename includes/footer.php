@@ -7,7 +7,7 @@
           <p class="copy-footer-28 text-center"> &copy; 2020 Xtreem Clinic. All Rights Reserved.</p>
         </div>
       </div>
-      </div>
+
     </footer>
 
     <!-- move top -->
