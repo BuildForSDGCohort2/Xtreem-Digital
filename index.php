@@ -58,10 +58,8 @@
             <div class="banner-info">
               <div class="container">
                 <div class="banner-info-bg">
-                  <h5>The Largest and most respected Agencies</h5>
-                  <p>Donec maximus erat quis magna tincidunt, et ullamcorper ex condimentum. Pellentesque 
-                    volutpat lectus felis, sit amet dapibus tortor convallis sit amet. Quisque egestas sem quis 
-                    augue porta, et iaculis massa consequat.</p>
+                  <h5>The  most respected Paramedics</h5>
+                  <p>Through this system, you are given the opportunity to connect with encouraging Paramedics and other hardworking members.</p>
                     <a class="btn btn-style btn-style-outline mt-sm-5 mt-4" href="services.html"> Our Services</a>
                 </div>
               </div>
