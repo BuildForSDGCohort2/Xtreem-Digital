@@ -80,7 +80,7 @@
                   <div class="col-lg-8 w3l-features-photo-7_top-left">
                       <h2>Dr.Budmind</h2>
                       <p class="mb-lg-5 mb-4">Doctor of Transplant Surgery (PHD)</p>
-                      <h4>I Offer a full range of Professional mental Health services to children, Adults,
+                      <h4>We Offer a full range of Professional mental Health services to children, Adults,
                           Couples, and Families.</h4>
                       <p>Telemedicine is a relatively new concept, and in the world of internet, it develops with lightning speed. This article is for those who want to understand all intricacies of this highly dynamic and fascinating field.
 
