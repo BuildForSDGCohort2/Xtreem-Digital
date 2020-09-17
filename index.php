@@ -27,9 +27,8 @@
               <div class="container">
                 <div class="banner-info-bg">
                   <h5>Fitness</h5>
-                  <p>Donec maximus erat quis magna tincidunt, et ullamcorper ex condimentum. Pellentesque 
-                    volutpat lectus felis, sit amet dapibus tortor convallis sit amet. Quisque egestas sem quis 
-                    augue porta, et iaculis massa consequat.</p>
+                  <p>Hack diet, exercise, & habits to safely boost your testosterone; the motivation, fitness, health, & happiness super drug
+</p>
                     <a class="btn btn-style btn-style-outline mt-sm-5 mt-4" href="services.html"> Our Services</a>
                 </div>
               </div>
