@@ -4,7 +4,7 @@
     <div class="breadcrumb-bg breadcrumb-bg-contact py-5">
       <div class="container py-lg-5 py-md-3">
         <h2>Contacts</h2>
-        <p>Get Intouch</p>
+        <p>Get Contacts</p>
       </div>
     </div>
   </section>
