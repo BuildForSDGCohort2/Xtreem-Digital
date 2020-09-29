@@ -4,7 +4,7 @@
     <div class="breadcrumb-bg breadcrumb-bg-services py-5">
       <div class="container py-lg-5 py-md-3">
         <h2>Insights</h2>
-        <p>Detail about our services</p>
+        <p>Details about our services</p>
       </div>
     </div>
   </section>
