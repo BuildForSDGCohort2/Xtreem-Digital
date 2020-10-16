@@ -3,7 +3,6 @@
 <section class="w3l-main-slider" id="home">
   <!-- main-slider -->
   <div class="companies20-content">
-   
     <div class="owl-one owl-carousel owl-theme">
       <div class="item">
         <li>
